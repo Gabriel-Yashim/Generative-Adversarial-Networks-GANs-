@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mefash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1014EC3A6F9F470EB3F71DACB869EE74 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_292AEB9896E34E87B2E6BA278453BF50 }}
