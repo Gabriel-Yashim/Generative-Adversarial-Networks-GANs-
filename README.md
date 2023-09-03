@@ -9,3 +9,6 @@
 
 ## Future Works
 <p>DCGANs require a lot of computational resources and are quite unstable during training. DCGANs have the drawback of being only effective at producing little pictures (e.g., 64 x 64 pixels, 128 x 128 pixels). Future research should concentrate on creating new, higher-resolution (1024 x 1024 pixel) pictures using techniques like the Progressive Growing GAN method (Karras et al., 2017). Future research may concentrate on teaching the Neural Style Transfer model how to use spatial masks to apply styles to certain areas of the produced image.</p>
+
+
+#### Find the published papre here: https://ieeexplore.ieee.org/document/10124486
